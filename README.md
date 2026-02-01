@@ -1,4 +1,4 @@
-# Realtime Chat App 💬
+# Realtime Chat App 
 
 A Real-time Chat Application built with React, Tailwind CSS, Node.js, Express.js, and Socket.io.
 
